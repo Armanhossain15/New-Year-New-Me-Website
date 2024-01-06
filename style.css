@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.fixed-width{
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* banner */
+.banner-content{
+    padding-left: 700px;
+   text-align: right;
+}
+.banner{
+    padding: 250px 0;
+    background-image: url("images/banner/banner3.png");
+    color: white;
+    text-align: right;
+    background-repeat: no-repeat;
+    
+   
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.banner-des{
+    margin-bottom: 32px;
+}
+.btn{
+    padding: 21px 25px;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 600;
+    color: #005FAC;
+    border: none;
+    border-radius: 5px;
+}
+
+/* banner */

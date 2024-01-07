@@ -47,3 +47,30 @@
 }
 
 /* banner */
+
+/* women-section */
+.women-section{
+    width: 1100px;
+    height: auto;
+    margin: auto;
+    gap: 70px;
+}
+.women-section .women-img img{
+    width: 550px;
+    height: auto;
+}
+ul li{
+    margin-bottom: 8px;
+}
+ul i{
+    color: rgb(8, 161, 8);
+    margin-right: 14px;
+    font-size: 18px;
+}
+.text-h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+
+}
+/* women-section */

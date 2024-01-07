@@ -141,6 +141,7 @@ footer{
     height: auto;
     margin: auto;
     gap: 500px;
+    align-items: start;
 }
 .left-foot h1, .subscribe h1{
     margin-bottom: 25px;
@@ -166,5 +167,11 @@ input[type="submit"]{
     color: white;
    font-size: 20px;
    border: none;
+}
+.social-media i{
+    padding: 5px 7px;
+    border-radius: 50px;
+    background-color: white;
+     margin-right: 16px;
 }
 /* footer */
